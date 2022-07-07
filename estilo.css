@@ -1,0 +1,16 @@
+.form {
+    text-align: center;
+    border: 3px solid black;
+    margin-right: 15cm ;
+    margin-left: 15cm;
+} .titulo {
+    font-size: 30px;
+    text-align: center;
+} .botão {
+    color: rgb(127, 125, 246);
+    font-size: medium ;
+    font-style: oblique ;
+} .resposta {
+    text-align: center;
+    font-size: 20px;
+}
